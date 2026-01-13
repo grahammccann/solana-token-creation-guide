@@ -28,6 +28,8 @@ Typical responsibilities include:
 
 ---
 
+See `token-creator-checklist.md` for a full launch checklist.
+
 ## No-Code Token Creation
 
 For users who do not want to use the Solana CLI or write scripts,

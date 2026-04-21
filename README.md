@@ -1,5 +1,11 @@
 # Solana Token Creation Guide (SPL Tokens)
 
+[![Solana Tokens](https://img.shields.io/badge/Solana-Tokens-9945FF?style=for-the-badge&logo=solana&logoColor=white)](https://solana.com)
+[![SPL Standard](https://img.shields.io/badge/SPL-Token%20Standard-blue?style=for-the-badge)]()
+[![No Code Tools](https://img.shields.io/badge/No--Code-Token%20Creator-success?style=for-the-badge)](https://www.soltokenlaunch.com)
+
+---
+
 This repository explains how Solana tokens are created, including minting,
 metadata, supply configuration, and authority settings.
 
